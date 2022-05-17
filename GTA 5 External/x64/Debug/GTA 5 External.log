@@ -1,0 +1,13 @@
+﻿  external.cpp
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(69,15): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(70,15): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(79,63): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(88,56): warning C4244: 'bağımsız değişken': 'uintptr_t' - 'DWORD' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(91,52): warning C4244: 'bağımsız değişken': 'uintptr_t' - 'DWORD' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(151,17): warning C4552: '!': ifade sonucu kullanılmıyor
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(152,17): warning C4552: '!': ifade sonucu kullanılmıyor
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(179,63): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(179,48): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(183,25): warning C4552: '!': ifade sonucu kullanılmıyor
+C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\GTA 5 External\external.cpp(184,25): warning C4552: '!': ifade sonucu kullanılmıyor
+  GTA 5 External.vcxproj -> C:\Users\onurs\OneDrive\Masaüstü\GTA 5 External\GTA 5 External\x64\Debug\GTA 5 External.exe
